@@ -9,9 +9,9 @@ use AlibabaCloud\VersionResolverTrait;
  *
  * @package   AlibabaCloud\Dm
  *
- * @method V20151123\DmApiResolver v20151123()
+ * @method static V20151123\DmApiResolver v20151123()
  */
-class Dm
+class DmVersion
 {
     use VersionResolverTrait;
 }
