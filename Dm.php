@@ -5,8 +5,8 @@ namespace AlibabaCloud\Dm;
 use AlibabaCloud\Client\Resolver\VersionResolver;
 
 /**
- * @deprecated
+ * @method static V20151123\DmApiResolver v20151123()
  */
-class DmVersion extends VersionResolver
+class Dm extends VersionResolver
 {
 }
